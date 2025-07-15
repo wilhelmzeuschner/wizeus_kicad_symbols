@@ -9,8 +9,9 @@ Enhanced KiCad schematic symbols with added fields for better schematic-readabil
 
 
 ## Enhanced
-- R_small
-- C_small
+- R_Small
+- C_Small
+- C_Polarized_Small
 
 ## How to use
 1. Clone repo to your computer
