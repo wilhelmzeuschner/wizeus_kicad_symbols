@@ -74,6 +74,14 @@
 				)
 			)
 		)
+		(property "Dielectric material" "Dielectric material"
+			(at 4.572 -5.588 0)
+			(effects
+				(font
+					(size 0.508 0.508)
+				)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(effects
