@@ -1,5 +1,5 @@
 # wizeus_kicad_symbols
-my preferred KiCad symbols
+my preferred KiCad symbols and (sometimes) associated footprints
 
 ## Introduction
 Enhanced KiCad schematic symbols with added fields for better schematic-readability.
@@ -13,6 +13,7 @@ Enhanced KiCad schematic symbols with added fields for better schematic-readabil
 - C_Small
 - L_Small
 - C_Polarized_Small
+- TP
 
 ## How to use
 1. Clone repo to your computer
