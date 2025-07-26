@@ -711,7 +711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "wizeus_kicad_footprints:TestPoint_Pad_D1.5mm"
 			(at 5.08 0 0)
 			(effects
 				(font
